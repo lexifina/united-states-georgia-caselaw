@@ -1,0 +1,20 @@
+---
+court: "Richmond Superior Court"
+decided: "1831"
+citations: ["1 Dudley Rep. 213"]
+reporter: "dudley-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State vs. Benjamin Sims."]
+source_url: "https://static.case.law/dudley-rep/1/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6755358
+---
+
+# State v. Sims
+
+## Majority
+
+The nuisance charged in this indictment-is obstructing the way to a spring, known as Walton’s spring, in the village of Summerville, and interrupting the free use- of said spring* which way and spring are alleged to be public. The nui-sanee was very fully and satisfactorily proven at the trial, and the only difficulty in the case was to ascertain whether it were a public or private nuisance. It was in evidence that the original proprietors of the land, in laying out the village* set apart and dedicated to public use certain streets and lanes, the ground around the spring, and the way leading to it; and that ever since, for the last twenty or thirty years, the streets and lanes, spring and way have been used and enjoyed by the public. But there was no evidence of any exercise of power or right over them by any of the public authorities known to the laws of the State. On the contrary it was in evidence that the streets and spring have been kept in repair with money raised by subscription from the citizens inhabiting the village, it being unincorporated.
+From the most attentive consideration I could give the case at the trial, my mind was brought to the conclusion, that though the public hud long used the streets, spring and way, and derived great convenience from them, the right thereof was rather vested in the villagers as incident to their lots there than in the public; and so I expressed myself to the jury in giving them the rules by which to distinguish a public from a private nuisance. The jury however found against the defendant, and the court is now moved for a new trial, on the ground that the verdict is against law and evidence and against the charge of the court.
+I have been not a little embarrassed with this case, not on account of any difficulty in the questions presented, or abstruseness of the doctrines involved, but in exercising, under the circumstances of the case, and with reference to the 23d sec. of the 3d division of the penal code of 1817, the discretion and power I have of granting new trials. The defence set up seemed to me to have failed altogether, whether the nuisance be considered public or private ; and the defendant cannot be considered free from fault, for if not the whole, at least a very considerable part of the public were greatly annoyed by the act complained of. He does not therefore come before the court entirely innocent, and under circumstances which would entitle him to much indulgence and favor : though to law and justice he is entitled, and but for the provision in the penal code to which I have referred, I should not hesitate in granting a new trial. I do not mean to be understood by this, as holding that the law takes from the court the power of granting new trials, but that it has the effect of limiting and greatly abridging the discretion of the court in this regard, unless it is to be considered a dead letter in the statute book. If the jury, who are declared by the code to be “Judges both of law and fact,” were to pronounce a verdict grossly and manifestly wrong, in a case where the consequences would be very serious to the accused, the court would, unquestionably, exercise its power, and grant a new trial, especially if iUcould not obviate in a good degree by its judgment, the consequences of the verdict. But in the case under consideration, the punishment is a fine at the discretion of the court and the jury, who are Constituted the judges both of law and fact, having, after a very full and fair hearing, pronounced a verdict which seems to be in accordance at least with the justice of the case, I will not disturb it. The motion is therefore overruled.
