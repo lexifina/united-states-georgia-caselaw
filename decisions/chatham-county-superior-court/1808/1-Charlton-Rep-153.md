@@ -1,0 +1,50 @@
+---
+court: "Chatham County Superior Court"
+decided: "1808-04"
+citations: ["1 Charlton Rep. 153"]
+reporter: "charlton-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte Paul Grimball."]
+source_url: "https://static.case.law/charlton-rep/1/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6755559
+---
+
+# Ex parte Grimball
+
+## Majority (Charlton, Judge.)
+
+Charlton, Judge.
+, , j "e complainant in this bill states, that executions have been issued against his property, and a levy and sale mena-cet^ ’ a sa^e *s ma<^e by the sheriff, at this time, when pecuniary embarrassments, occasioned by the embargo acts, are so general and distressing, it will involve him in ruin, as no price, or no fair price can be obtained for his property, and that he has no other means of paying his debts.
+Upon these grounds he applies to the chancery side ofthis court for a writ of injunction, to restrain a sale under these executions. I shall not bottom a decision upon the peculiar circumstances of this case only, or as a peculiar case involving such features of hardships and oppression, as renders necessary the interposition of this branch of the court. On the contrary, I shall view this as a case in which all our citizens are interested, and as calculated to establish a precedent for the general benefit.
+I ask the question, Is it not against equity and conscience ? is it not in the highest degree oppressive, to compel the sheriff to obey the mandate of a writ of execution, when the facts are before the whole public, that the sale of produce, in its usual course of traffic, is suspended, or bought up by monied men from the necessitous planter, for a song ? From the planter who must sacrifice his crops to prevent a greater sacrifice; who must sell to obtain provisions (if a cotton planter) for his negroes, and necessaries for his family ; who roust sell for this song, to prevent his negroes (a more valuable property, and upon whose uninterrupted labour and increase the future support of himself and children depend) being knocked off under the hammer of the Sheriff, at a price far less than half their cash value. Is this picture overcharged ? is it not rather a correct delineation of the distresses of the agricultural interest at this moment? If it is, then relief ought, somewhere, to be found.
+It has been, and is at this time, a subject of sufficient magnitude to require one of the extraordinary meetings of this legislature, which the constitution authorises. But until a legislative suspension of sales is given to the people, cannot relief be afforded by this court ?
+I have given to the power with which the law and the constitution have invested me, their fulltieliberation ; and though I do not possess all the powers of a lord chancellor, because by our local system, the interposition of a jury is required in equity cases, yet that syste'orcanuot, and does not interfere with these matters in chanc.ry, which in their nature must be exclusively referred to the discretion of the court. Of this nature I consider the application for the writs of injunction.
+An injunction is a prohibitory writ, restraining a person from committing or doing a thing which appears to be against equity and conscience.
+This is the simple definition given by one of the elementary compilers, and it is sufficiently comprehensive for meto adopt ⅛
+The principal use made of this writ is, to restrain some rigorous proceedings at law.
+I shall then consider whether a sale by the sheriff, at this crisis of our national affairs, big with calamities, as I have described, to the agricultural interest, should be restrained as a rigorous proceeding at law, and as a proceeding against equity and conscience.
+1. Is it a rigorous proceeding in law ? An execution is the last stage of our common law proceedings. It places the person, or the property of the defendant, at the. mercy of the judgment, of the creditor, who may make his election, lain speaking of the execution, of which nothing can be alleged in chancery against its parent judgment. Of this nature are the executions before us, and they assume the appellation of rigorous proceedings, because there is no remedy at law ; and unless a remedy is found somewhere, ruin stares the defendant in the face ; a ruin not brought on himself by want of probity, or of property in his possession exceeding, probably ten times, at a cash valuation, the amount contained in the executions, but a ruin brought down on him by a necessary measure of the national legislature and government, which unfortunately obstructed the channels through which he had been accustomed to pay his debts, probably with punctuality.
+2. Is it a proceeding against equity and conscience ?
+This is the broad basis of the writ of injunction.
+It is admitted by both sides, that no remedy can be had at common law. When we resort to law, it is expected that piecedents will have their full weight of authority ; and though precedents may militate with that justice which the peculiar circumstances of a particular case may require, yet, for the sake of general and uniform rules, a judge will seldom deviate from an established and settled principle to accommodate the circumstances of one case, however strong the reasons may be to exempt it from the operation of precedent.
+In the case of Doe, 5th Pott, 2 Douglass, 120, lord Mansfield is reported to have said, “the absurdity of lord Lincoln's case is shocking ; however it is now law.” This observation of his lordship may be selected as the most strongly illustrative of the authority, given by common law judges, to precedent.
+A court of equity is not so trammeled. It is governed by uniform rules of evidence, and though a respect is evinced in that jurisdiction for precedents, yet they are seldom permitted to stand in the way of the particular circumstances of each case.
+A lord chancellor of Great Britain is almost as omnipotent as parliament. Give him but a strong hold on an equitable principle, and he will be sure to substitute the intention of an act of parliament for its letter ; he will push aside precedent for abstract honesty. What are the many cases in the equity reports, on the statutes of frauds and peijuries, but indirect repeals of the plain and literal requisites of that all-important statute ?
+1‡ is only necessary to advert to the nature of law and equity to account for the latitude of power given to the latter.
+The law is stubborn and unbending. It marks out for itself a course from which no fascinations can illure, no obstacles impede.
+It neither looks to the right nor to the left. It neither relents nor forgives. It issues its mandates, and will be obeyed ; it takes into view no consequences.
+“ Fiat justitia” is its maxim, whether contemplating its operation upon a nation, or upon an individual.
+We perceive at once, that such should be the nature and effects of law; they necessarily result from that indiscrimi-nating and eternal justice, upon which the common law is founded.
+Our ancestors felt, as we have felt after them, the necessity of some tribunal, armed with the attribute of alleviating the inexorableness of the law. This tribunal is called a court of equity, whose decisions are guided by the particular circumstances of the case.
+This court of equity lends mercy to the law, and steps in as a kind mediator between rigid justice, as established by the artificial institutions of society, and that justice which traces its origin to the laws of nature, and of God.
+In cases like these before me, the law places every thing at your disposal. It holds out to you the means of rioting upon the spoils of your neighbour, your debtor, or the community.
+The nation, in order to redress itself for outrages on its sacred rights, imposes distresses on its own citizens. These distresses are the deprivation of those means which heretofore poured wealth or competence into the lap of the planter.
+His ostensible wealth is, however, now the same. He shows you his cotton, his rice, and his negroes. He proves to you that his property has even greatly accumulated since he engaged to pay your debt; but to pay that debt nono he tells you that he is unable, unless a sale is directed by the sheriff, the cohsequences of which would be a payment to you of fourfold ; for a sale of his property now, would amount to diminution of quadruple its intrinsic and just value, and in that ratio less than it would have sold for at market previous to the embargo.
+Leake, in support of motion for injunction.
+Lawson and Stites, against it.
+How immense, and at the same time how unrighteous, are the advantages which the creditor derives, if he himself become purchaser, and pay with his judgment! How much more unrighteous and against conscience is a purchase under these circumstances by a capitalist, who, with his ready money, speculates upon the misery and the ruin of the unfortunate debtor !
+Time has not been allowed me to search for apposite cases in the books. I do. not recollect, at this moment, any cases reported in the English authorities involving the principles of the cases before us.
+I shall, therefore, bottom my decision upon the abstract grounds, that cases» of this description involve hardship and oppression ; that they are against equity and conscience ; that they are promotive of injury to the public; that they enable monied men to accumulate usurious wealth ; and that they tend to convert a just and salutary measure of the government, into an engine of political disaffection, through the medium of distressed and persecuted debtors.
+Let the writ of injunction therefore issue, to stay sales upon these executions, until the first day of September next, the claimant depositing with the sheriff, when required to meet the day of sale, sufficient property, the valuation of which to be ascertained by the price at market three months preceding the embargo act.
