@@ -1,0 +1,21 @@
+---
+court: "Chatham Superior Court"
+decided: "1822-02"
+citations: ["1 Charlton 149"]
+reporter: "charlton"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the Presentments of the Grand Jury."]
+source_url: "https://static.case.law/charlton/1/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219074
+---
+
+# In re the Presentments of the Grand Jury
+
+## Majority (By CMAKE/TON, Judge.)
+
+By CMAKE/TON, Judge.
+This is a motion of Mr. Solicitor General to expunge from the minutes of the Court a presentment of the Grand Jury of this term, in the following words ; “We present as an evil of no small magnitude, the failure of the sitting of the Inferior Court of this County, for ordinary purposes.” The motion is founded upon these reasons : (authorized by the justices to be assigned for the failure of the Court,) that two of the justices of the Inferior Court, were at the time the Court for ordinary purposes should have been, held, in the discharge of their duties as members of the General Assembly, and that another was compelled from indisposition, to visit the upper Country.
+The Inferior Court, silting as a Court of ordinary, is composed of five justices. Three were absent for the reasons assigned, and these reasons were assigned by Mr. Justice Harden, who was heard at the bar of this Court. My opinion is therefore required upon the sufficiency of this apology, for the apparent neglect of duty, on the part of the justices of the Inferior Court. I can only say that these gentlemen have assumed capacities, and undertaken to discharge functions, which, it is true, are allowed by law, but which may occasionally be in hostility, each with the other. As members of the Legislature, they make laws; as justices they are required to expound them. In one case it is jus dare, in the other it is jus dicere. In short it is a peculiar, and perhaps, by all the world may be thought, a singular feature in the Constitution of Georgia, that justices of the Inferior Court having co-equal and co-extensive powers with this Court (the highest tribunal in the Slate,) in civil cases, with few exceptions, should be eligible as members of the Legislature, when the Judge sitting here is considered one of the departments ■ of the government, and therefore ineligible to the Legislature. It may be considered as a still greater anamoly, that the justices of the Inferior Court, of each county in the State, having then co-equal and co-ordinate powers (with the exceptions contained in the Constitution and laws,) should not be required to have any professional knowledge or experience, and may at the same time be invested with the highesst military ranks, within the gift of the people or the government. It may appear still more extraordinary, that this branch of the judicial department, should be chosen by the people and possess the powers of a Court of ordinary, powers arising as they do, on the interests accruing under wills and testaments. With these representations of the powers attached to the justices of the Inferior Court, and the persons of whom that Court may be composed—composed in reference to the other capacities they may assume, it may be asked whether if the people so will it, the justices of the Inferior Court may not make the election, as to the judicial, legislative, or military duties, they may be required to perform, if the requisition on these duties, should happen to be contemporaneous ? I answer in the affirmative—because the people by electing justices of the Inferior Court, as members of the Legislature, have waived the sessions of the Court, which hut for this election would have been held. The people by such election have considered, that the judicial shall give way and be postponed to the discharge of the political duties, which such election has imposed upon the justices. Such was the decision of the citizens of this county in electing two justices of the Inferior Court, and at the time the Court should have been held, they were in performance of their political duties, and the other incapable of acting from indisposition. The presentment therefore cannot be supported in its character of animadversion, and must be expunged from the minutes.
+Motion granted.
