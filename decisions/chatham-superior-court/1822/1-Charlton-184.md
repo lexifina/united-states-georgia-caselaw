@@ -1,0 +1,24 @@
+---
+court: "Chatham Superior Court"
+decided: "1822-05"
+citations: ["1 Charlton 184"]
+reporter: "charlton"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McGowan vs. Jones, et. al."]
+source_url: "https://static.case.law/charlton/1/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219027
+---
+
+# McGowan v. Jones
+
+## Majority (By ©HAKX’S’OST, Juuige.)
+
+By ©HAKX’S’OST, Juuige.
+THIS is a petition for a rehearing of this cause, decided by verdict of a special Jury, at the last term of this Court, held, in the county of Liberty.
+The defendants believe themselves aggrieved by the verdict, because, it is contended, that, the complainants could derive, as devisees, no title under the will of the femme covert Mrs. Way, tho’ such will was made with the parol consent of her husband ; because the words of the will created an express estate tail, in the husband, and the bequest being of personal estate, thereby vested the interest absolutely in him ; and because, the limitation over in favor of complainant, is too remote, that being dependent upon an indefinite failure of issue. The defendants conceive themselves aggrieved by the verdict, on another ground—that it was rendered in opposition to the charge of the Court, on the legal validity of the femme covert’s will, made under the parol assent of the husband, and not subsequently ratified by any act, equivalent to an agreement before marriage, that the wife should by will, possess a disposing power over any portion of the husband’s property, I have had occasion before to decide, that the laws of this State are silent on the necessity of a special, or other Jury, in the determination of Chancery causes. The association of a Jury with the Court, in such cases, is merely sanctified by the practice, which has long obtained in this, and I presume the other districts of this State, under the impression perhaps, that it was a positive or implied Legislative requisition, or perhaps, the general cherished predilection for the trial by Jury, in causes of every description. Communis error facit jus, as a maxim bearing upon this subject, I shall not be the first Judge to subvert; and until the pleasure of the Legislature is expressed, I shall permit, as heretofore, the co-operation of a special Jury, as required by a rule of this Court, in the trial of equity cases. But, bound by no law, I shall always approach the decree of a special Jury, in an equity cause, with much less reverence, than when exercising the functions legitimately delegated to them. I shall respect their decision upon facts, but if a special Jury, unfolding its own code of equity, extracts from it, and applies doctrines, subversive of the best established, and, I may add, the most consecrated principles of a chancery jurisdiction, I must be suffered to put up the legal landmarks, which their discretionary judicial legislation has removed. In the present case, I was not at all satisfied, that this will, though it had passed through the ordeal of an ordinary probate, had been made under those circumstances of assent, which-impressed upon it the character of validity.
+The proposition that a wife c'ould make a will, was not, and could not be controverted.’ That power, may be conferred on her by the agreement, and compact of her intended husband, and after marriage, by some act of equivalent solemnity. My doubt at the trial, (and which I communicated to the Jury,) was, that on a review of the authorities, it seemed, that a parol assent, unconfirmed by any act, analogous to the agreement before marriage, was not sufficient to give validity to the will. The argument with which I have been favored, on this petition, has not contributed very materially to shake the opinion I then expressed to the Jury, and the influence it still possesses over my mind, must justify an Older for the rehearing of this very important, and highly interesting case. It ought not to be expected that I should now advert to authorities, and pronounce any definite opinion upon any point, raised in this cause, or stated in the petition; for if I did so, the special Jury at the ensuing term, would be converted into a sort of lit de justice to enregister my decree, and setting down the cause for hearing, would also be a mere fro forma arrangement. I have then only generally to say, that sufficient grounds are stated in the petition of the defendants to grant its prayer.
+Wayne, Berrien & Law, for petition—Habersham, against it.
+And it is ordered, that this cause be reheard, at the next Superior Court to be held in the county of Liberty, on the verdict and decree rendered by the special Jury.
+See note to Bolton vs. Flournoy, et. al., p. 138 supra. Pool vs. Barnet Dudley’s (Geo.) Rep. 8.—(Bd.)
