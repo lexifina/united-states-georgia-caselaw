@@ -1,0 +1,22 @@
+---
+court: "Richmond Superior Court"
+decided: "1832-07"
+citations: ["1 Dudley Rep. 107"]
+reporter: "dudley-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Redmond vs. William Glover."]
+source_url: "https://static.case.law/dudley-rep/1/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6754466
+---
+
+# Redmond v. Glover
+
+## Majority
+
+But a single question arises in this ease, and that is upon the computation of time. Six lunar months have elapsed since the rule nisi, and the mortgagee is entitled to his rule absolute, unless the court decide in favor of the computation by calendar months. . . i
+. i • The divisions of time into years, months, weeks, and days, have long been settled by common law. A year is a known and determinate period, consisting of three hundred and sixty-five days and the fraction of a day, being one entire revolution of the seasons. The period of a month is not so determinate, as there are in common use two ways of calculating it; one lunar, consisting of twenty-eight days, of which there are thirteen in a year, the other according to the Julian division, commencing at the calends of each month. Of ■these there are twelve in each year, and they of unequal lengths. These different modes of computing months may not be capriciously used, as their particular use and application have been settled by law. In all ecclesiastical and commercial transactions, the calendar month is used. Franco v. Alvares, 3 Atk. 346. Leffingwell and Pierpont v. White, 1 John. Ca. 99. And the Court of Chancery has adopted the calendar month in its orders and decrees, 3 Eq. Cas. Ab. 605. But these are to be considered as exceptions to the general rule : For a month in law is a lunar month, unless otherwise expressed. 2 Blk. Com. 141. In Franco v. Alvares, the Chancellor says c; It has been truly said in acts of Parliament the word months means lunar months, except in the case of Tempus Semestre with regard to lapse of livings, and the other case of the six months allowed in respect to prohibitions, both upon the same reason, because relative to and according to the computation of time in the ecclesiastical court. In the case of Lacón v. Hooper, Lord Kenyon says “ I confess I wish that when the rule was first established, it had been decided that months should be understood to mean calendar and not lunar months ; but the contrary has been so long determined and so frequently, that it ought not again to be brought in question. In the instance of a quare impe-dit, the computation of time is by calendar months, but that depends on the words of an act of parliament, tempus se-mestre. But for all other purposes, and in all acts, of parliament where months are spoken of, without the word calendar, and nothing is added from which a clear inference can be drawn, that, the legislature intended calendar months, it. is ut derstood to mean lunar months.” 6 T. Rep. 2-24. And of the same Opinion were the whole court; considering it a question too well settled to be doubted.
+Such, then, is the common law of England upon this subject. The colonists who first settled the State brought with them all the laws of the mother country, applicable to their new condition, and necessary for their good government. Such was the law regulating the division of time, and directing its mode of computation. After the separation of the governments, the legislature of Georgia in the year 17S4, expressly adopted the common laws of England so far as they are not contrary to the Constitution, laws, and established form of government. That part of the common law under consideration is not within the exception. It perhaps might be well for the legislature to establish some uniform manner of calculating time applicable to all purposes, adopting the lunar, or calendar month, as in their wisdom might seem best; but until that is done, things must remain as they are, for the courts have not the power to alter that which is established. Neither in the judicial act of 1799, nór in the acts of 1826 and 1829, amendatory thereof, under which this proceeding is had, is the calendar month mentioned, or any thing from which it may be clearly inferred that such was intended. The common law rule must therefore prevail, and the legislature be presumed to have intended lunar months.
+Let the rule absolute be entered.
+Black for plaintiff, and Reid for defendant.
