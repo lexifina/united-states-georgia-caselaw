@@ -1,0 +1,20 @@
+---
+court: "Talliaferro Superior Court"
+decided: "1831-07"
+citations: ["1 Dudley Rep. 1"]
+reporter: "dudley-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Absalom Janes vs. William Robinson."]
+source_url: "https://static.case.law/dudley-rep/1/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6753923
+---
+
+# Janes v. Robinson
+
+## Majority
+
+In this case the mortgaged property had been sold, and after the mortgage fi. fa. had been satisfied a balance of money remained which was claimed by Archibald Janes, who had taken a mortgage of subsequent date upon the property that was sold under the aforesaid mortgage fi. fa. This claim was resisted by the officers of the Court who claimed the money upon a fi. fa. issued for costs against the defendant. The defendant as executor or administrator of one Langdon had brought suit against--, had obtained a verdict against-who had proved insolvent, upon which the said fi. fa. issued against Robinson the plaint ill' in that case in his individual capacity. The question submitted to the convention of Judges, in this case, were these. 1st. Cana defendapt be made answerable under such circumstances ? 2d. If yea, can an executor or administrator be made liable individually for costs under such circumstances ?
+The convention after deliberation upon the facts in the case, decides : 1st. That the act of 1812 authorizes an execution to issue against an attorney and his client who resides out of the county where the action is commenced, if the defendant is insolvent. It is somewhat difficult to discover the reason why the legislature should subject the plaintiff to costs in case of the insolvency of the defendant, where the plaintiff resides out of the county where the action is com-nienced, and not subject plaintiffs who reside in the county t0 ^ie same liability : It is perhaps still more difficult to discover why the attorney in the former case should be considered liable for costs, and not in the latter. At first ^lush it would appear that reason would make no difference between the cases, and that plaintiffs residing in the county with the defendant come within the reason and equity of the statute. Perhaps the best reason which can be offered for not applying the statutory provision to both cases, is that the general principle, that the costs of suit shall fall upon defendants and not upon plaintiffs is of such universal appli- . . _ r. r . v . . f.r cation and so uniformly established, that no exception irons ru^e admissible except where such exception is expressly made by statute. The convention has however no hesitation in deciding, that the officers of court have no right at their whim and caprice and of their own authority to issue an execution against a plaintiff not only in the absence of a judgment, but against a judgment which was signed by the plaintiff 's attorney.
+2dly. A practice had been introduced in some of the circuits of entering judgments against executors and administrators to be levied upon the estate which they represented “si non de bonis propriis.” This practice had not the sanction of a single legal decision, and has been over-ruled in the northern circuit upon argument and the production of authorities. The older elementary authorities say that an executor or administrator may make himself liable individually for debts due by the estate which he represents ; but do not state with precision how that liability is to be enforced. On examination the modem authorities show that this liability is always enforced by an action of waste; in which action the defendant is not permitted to plead plene administravit or any other matter in discharge. If a judgment cannot be entered against an executor or administrator in an action against them for a debt due by the estate they represent a fortiori, they cannot be rendered liable for the costs of a suit brought by them in their representative capacity where they had obtained a verdict. In every event the fi. fa. for costs is illegal, and cannot be permitted to claim the money.
