@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Georgia"
 decided: "1886"
-citations: ["1 Ga. L. Rep. 320", "1 Ga. L. Rep. 310"]
+decided_precision: "year"
+citations: ["1 Ga. L. Rep. 320"]
 reporter: "ga-l-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Jackson vs. State."]
 source_url: "https://static.case.law/ga-l-rep/1/cases/0320-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3864527
-cites_cases: ["10 Ga., 47", "16 Mass., 147", "18 Ohio, 197", "18 Ohio, 497", "19 Ga., 102", "56 Ga., 113", "57 Ga., 183", "70 Ga., 131", "70 Ga., 752"]
+cites_cases: ["10 Ga., 47", "16 Mass., 147", "18 Ohio, 197", "18 Ohio, 497", "19 Ga., 102", "70 Ga., 131", "70 Ga., 752"]
 ---
 
 # Jackson v. State
