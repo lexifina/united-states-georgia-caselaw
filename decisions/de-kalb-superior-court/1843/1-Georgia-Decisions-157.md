@@ -1,0 +1,19 @@
+---
+court: "De Kalb Superior Court"
+decided: "1843-03"
+citations: ["1 Georgia Decisions 157"]
+reporter: "georgia-decisions"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse Childress,bearer, vs. Daniel Stone and Nathaniel Guyton."]
+source_url: "https://static.case.law/georgia-decisions/1/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6753157
+---
+
+# Childress v. Stone
+
+## Majority
+
+This was an action, brought upon a promissory note, made by the firm of Stone & Guyten, and payable to Robert Wood, or bearer. The defence set up was payment. The Jury found a verdict for the plaintiff, for the amount of the note, with interest and cost. The defendant’s counsel then moved for a new trial, upon the ground, that the Jury found contrary to evidence, and the weight of evidence. On the trial, the plaintiff read the note in evidence, and closed his testimony. Defendants then proved, by Jesse Childress, a son of plaintiff, that plaintiff paid the money to Wood, the payee of the note, and that he, witness, loaned plaintiff the money, to pay it. On further examination, ho stated that plaintiff owed Guyton, one of defendants, five hundred dollars, and that plaintiff took up said note, from Wood ; that it was agreed, between plaintiff and Guyton, that if the money was not collected, out of Stone, that plaintiff was not to pay Guyton what he owed him, by that sum, or, in other words, that there was to be a deduction from the debt, which plaintiff owed Guy-ton, equal to the amount of the note ; and further, that it was agreed, that, if a judgment was recovered against Stone & Guyton, it was not to bo enforced against Guyton, but that the object of the suit was to enable Guyton to collect the money out of Stone, the other partner ; and that if the money was collected out of Stone, it was to be paid over to Guyton. Defendant also read in evidence, a decree of the Court, making a final settlement, between Stone & Guyton, and allowing all the outstanding debts, due the firm, to Stone. This was all the testimony. The question then arises, was there sufficient evidence to support the verdict: for I understand this to be the rule— that when there is evidence, on both sides of a case, and the question is thereby rendered doubtful; the Court will not interfere, by granting a new trial. But if the verdict be manifestly against the evidence, the Court will grant a new tria!. In this case, there was but one witness, and he the son of the plaintiff, and could not therefore bo presumed to have any bias in favor of the defendant. He states, virtually, that the note was paid by his father, aHhe request of Guy-ton, one of defendants, and that plaintiff was allowed a credit, on a debt which he owed Guyton, to the amount of said note ; that when judgment was obtained on the note, in favor of plaintiff, Guyton was not to be required to pay it, but the money was to be collected out of Stone, and paid over to Guyton. Then, I would ask, was not this, to all intents and purposes, a payment of said note, by Guyton, one of the defendants'? If so, the plea of payment was fully sustained. But, it may be said, that, in as much as Stone and Guyton were jointly liable, for the payment of this debt, and Guyton had paid the whole, he ought to recover half the amount from Stone. That may be true; but not in this action. His proper remedy must be, by an action in his own name for contribution, I think the tacts, proven by the defendants, fully establish the fact, that said note was paid off by Guyton, one of defendants. This testimony is uncontra-dicted, and unimpeached; and a payment by either defendant is a bar to the plaintiff’s right of recovery. It is therefore ordered, that the verdict be set aside, and a new trial granted.
+Calhoun & Dabney, for Plaintiff. Murphy, for Defendant.
