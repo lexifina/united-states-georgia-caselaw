@@ -1,0 +1,28 @@
+---
+court: "Richmond Superior Court"
+decided: "1831"
+citations: ["1 Dudley Rep. 214"]
+reporter: "dudley-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Woodruff & Co. vs. Dean & Mahoney."]
+source_url: "https://static.case.law/dudley-rep/1/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6755384
+---
+
+# Woodruff v. Dean
+
+## Majority (Per Curiam.)
+
+Vf.rdict for plaintiffs subject to the opinion of the court upon the following sta'ement of facts, to wit. “ Dean was committed to jail under a ca. sa. at the suit of the plaintiffs, and gave bond with Mahony as security for the prison bounds — after he had been on the bounds a week, he made application for a discharge (under the provisions of the act requiring plaintiffs who reside out of the State or County to give security for the maintenance and jail fees of the defendant when committed to jail, or in failure thereof, the defendant to be discharged by the justices of the Inferior Court) and upon producing the jailer’s certificate that security for jail fees had not been given, and a certificate from the sheriff that he believed the plaintiffs resided out of the State, an order was signed by one justice of the Inferior Court, requiring such security to be given on the day of the date of said order, or that the said Dean should be discharged — the plaintiff’s attorney had no notice of these procedings in time to object. On the next day another justice signed said order, and on the next day a third justice signed said order, and Dean having the same in his possession, quit the bounds ; the said justices did not have any consultation, the said order was not, and never has been entered of record on the minutes of the Inferior Court, and during the time Dean was on the bounds he boarded at Mrs. Riley’s, and was no expense to the county or city. We agree that the above is a true statement of the facts in said case, this 23d June, 1829.
+By 2d see. of act of 10th December 1803, the justices of the Inferior Court have power to discharge persons imprisoned for debt under circumstances therein named, but they must do it as a court, and an order for discharge submitted to them in-dividualiy for their respective signatures out of court is insufficient and void.
+A. J. Millek, Plaintiff’s Attorney.
+J. P. King, for Defendants.
+We agree to submit the case stated without argument. with privilege of appeal to either party, with the further privilege of rejecting this consent as evidence on said appeal if entered, 5th August, 1829.
+J. P. Kino,
+A. J. Miller.”
+Per Curiam.
+No paper has been submitted but the above statement. It is presumed, however, that .the bond sued on is in terms of the act of 22d Dec. JS20, relative to prison bounds. The condition prescribed by that act is “ that if the person or persons so arrested, and committed to jail do at any time without being legally discharged, pass or leave the boundaries so laid off, &c. such passage or departure shall be taken and considered an escape and for forfeiture of the bond, &c.” The discharge relied on is one by three justices of the Inferior Court made or intended to be made according to the provisions of the 2d sec. of the act of the 10th Dec. 1803, relative to insolvent debtors, and the question to be decided is whether the discharge obtained in the manner stated, be legal or not.
+There is no particular form.or mode of proceeding, expressly pointed out in the act except in the 1st sec. which is by peti tion, and rule or order of court. But this is for- discharge Up0n t[le surrender of effects. The power is given however to the same tribunal, the justices of the inferior Court, and fjjg ¡aw c|ear]y intended that the discharge should be by the justices of the Inferior Court as a court, and not by the individual act of each member of that body. It may be said that the discharge under the second clause of the 2d sec. is intended to be prompt, and upon a summary proceeding ; and this is true, but it does not therefore follow that it is to be the individual act of the justices, and not the act of the Court. The discharge of persons committed for criminal offences where no bond has been given to prosecute, and the discharge of seamen committed to jail by their captains, where no security has been given for their maintenance and jail fees, was intended also to be prompt and summary; but no one could hesitate-a'moment in declaring their discharge by an order issuing from the several desks of the members of the Inferior Court in the absence of the party to be discharged, and of every one concerned, and upon the mere certificate of an individual as to his belief of a fact to be illegal and altogether extrajudicial. Yet. these last cases are provided for in the same section, with the case of a debtor where no security has been given for maintenance and jail fees, and the case of seamen in the very same clause where the similarity of proceeding is pointed out by this expression which cannot be mistaken “ in like manner.” If a person confined for an alleged criminal offence, without a bond having been given to prosecute, and a seaman confined by his captain without security being given for his maintenance and jail fees, cannot be legally discharged but by a regular proceeding anda judicial order consequent upon an investigation into the legality of bis’eonfinement, it follows, necessarily, that a debtor cannot. The proceeding of the justices in this case is considered not only loose and irregular, but the order for discharge void as an act coram non judice.
+Let judgment be entered for plaintiff, with the privilege of appeal in terms of the consent.
